@@ -1,0 +1,1 @@
+start spispectrumplay.exe testwav.wav 120 800 800 0 255
